@@ -32,7 +32,7 @@
 
 ### Sinta-se a vontade para contribuir com este projeto. ###
 
-1. Faça um *Fork* este repositório;
+1. Faça um *Fork* deste repositório;
 2. Cria sua branch:
    ```powershell
    git checkout -b my-new-feature
