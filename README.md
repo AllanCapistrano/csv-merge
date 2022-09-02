@@ -32,23 +32,23 @@
 
 ### Sinta-se a vontade para contribuir com este projeto. ###
 
-1. Fork este repositório;
-2. Cria sua branch
-```powershell
-git checkout -b my-new-feature
-```
-3. Commit suas modificações
-```powershell
-git commit -m "Feat: add some feature"
-```
-4. Faça o push na sua branch
-```powershell
-git push
-```
-ou
-```powershell
-git push origin my-new-feature
-```
+1. Faça um *Fork* este repositório;
+2. Cria sua branch:
+   ```powershell
+   git checkout -b my-new-feature
+   ```
+3. *Commit* suas modificações:
+   ```powershell
+   git commit -m "Feat: add some feature"
+   ```
+4. Faça o *push* na sua *branch*:
+   ```powershell
+   git push
+   ```
+   Ou
+   ```powershell
+   git push origin my-new-feature
+   ```
 
 ------------
 
