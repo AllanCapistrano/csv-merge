@@ -8,10 +8,10 @@
 
 ------------
 
-## 💻 Como utilizar o projeto e/ou modificá-lo ##
+## 💻 Como utilizar o projeto ##
 
-1. Faça um *Fork* deste repositório (caso queira modificá-lo) ou somente clone-o.
-3. Acesse o diretório do projeto;
+1. Clone este repositório.
+2. Acesse o diretório do projeto;
 3. Instale as dependências do projeto:
    ```powershell
    pip install -r requirements.txt
@@ -26,7 +26,7 @@
    ```powershell
    python3 src/main.py
    ```
-6. Os arquivo mesclado estrá dentro do diretório `src/csv-files/merged/`<sup>1</sup>
+6. O arquivo mesclado estará dentro do diretório `src/csv-files/merged/`<sup>1</sup>
 
 ###### Obs<sup>1</sup>: Caso não tenha alterado os diretórios padrão. ######
 
