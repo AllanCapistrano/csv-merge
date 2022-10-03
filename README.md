@@ -21,10 +21,14 @@
    # Linux/macOS
    python3 -m pip install -r requirements.txt
    ```
-4. Execute o projeto:
+4. Coloque os arquivos que deseja mesclar dentro do diretório `src/csv-files/`<sup>1</sup>
+5. Execute o projeto:
    ```powershell
    python3 src/main.py
    ```
+6. Os arquivo mesclado estrá dentro do diretório `src/csv-files/merged/`<sup>1</sup>
+
+###### Obs<sup>1</sup>: Caso não tenha alterado os diretórios padrão. ######
 
 ------------
 
